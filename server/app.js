@@ -1,7 +1,7 @@
 import express from "express";
 import dotenv from "dotenv";
 import bodyParser from "body-parser";
-import fetch from "node-fetch";
+import fetch from "node-fetch"; 
 import cors from "cors";
 
 dotenv.config();
